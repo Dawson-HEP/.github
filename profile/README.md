@@ -34,10 +34,15 @@ Here's a [video](https://youtu.be/Yp-H1ZBjPuM) about our The Scintillating Chamb
 
 
 ### Opentrig
+> ***open***-source ***trig***ger system
 
 **Opentrig** is an extension of The Scintillating Chamber. After our proposal was declared one of the winners of the 2025 Beamline for Schools competition, 
 we decided to create a new prototype of our detector, that was more reliable and better adapted to the requirements of our experiments at [DESY](https://desy.de/index_eng.html). 
-At the heart of this new prototype is Opentrig, a 24-channel digital acquisition system with variable input thresholding that served as our data acquisition system during our experiments at DESY.
+
+
+At the heart of this new prototype is Opentrig, a 24-channel digital DAQ (Data Acquisition System) with variable input thresholding, designed to interface with timing systems controlled by the [AIDA-2020 TLU](https://gitlab.com/ohwr/project/fmc-mtlu), that served as the most important measurment tool during our experiments at DESY.
+
+
 
 ## Contacts
 
